@@ -1,0 +1,11 @@
+id = "standardrb"
+name = "standardrb"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jonas Brusman <jonas@brusman.se>"]
+description = "Use the StandardRB formatter in Zed"
+repository = "https://github.com/himynameisjonas/zed-standardrb"
+
+[language_servers.standardrb]
+name = "standardrb"
+language = "Ruby"
